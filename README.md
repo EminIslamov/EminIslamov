@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 ### Технологии, используемые мной при разработке:
 
 ![JS](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javaScript)
@@ -33,4 +30,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/EminIslamovv)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/mohmadislamov/?utm_medium=copy_link)
 
--->
+
