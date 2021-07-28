@@ -1,5 +1,7 @@
 ### Технологии, используемые мной при разработке:
 
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javaScript)
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux)
@@ -9,14 +11,12 @@
 ![Git](https://img.shields.io/badge/Git-g?style=flat-square&logo=git)
 ![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-white?style=flat-square&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)
-![ESLint](https://img.shields.io/badge/-Immer-green)
-![ESLint](https://img.shields.io/badge/-Node--JS-blue)
-![ESLint](https://img.shields.io/badge/Express-yellow)
-![ESLint](https://img.shields.io/badge/-MongoDB-g)
+![Immer](https://img.shields.io/badge/-Immer-green)
+![Node-JS](https://img.shields.io/badge/-Node--JS-blue)
+![Express](https://img.shields.io/badge/Express-yellow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-g)
 
 ### Мои работы:
 
