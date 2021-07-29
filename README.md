@@ -20,7 +20,7 @@
 
 ### Мои работы:
 
-- Smm - блокнот React/Redux [Код](https://github.com/EminIslamov/SMM-agency)
+- Smm - блокнот React/Redux [Код](https://github.com/EminIslamov/SMM-agency | [Demo](http://aqueous-hamlet-92956.herokuapp.com/)
 
 - Десктопный чат на React/Redux [Код](https://github.com/EminIslamov/chat-react) | [Demo](https://app-messeger.herokuapp.com/)
 
