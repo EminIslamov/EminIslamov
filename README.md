@@ -7,7 +7,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-white?style=for-the-badge&logo=Redux&logoColor=430098" />
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-white?style=for-the-badge&logo=&logoColor=430098" />
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
   <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-430098?style=for-the-badge&logo=Redux&logoColor=white" />
   <img alt="Immer" src="https://img.shields.io/badge/-Immer-green?style=for-the-badge" />
   <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
