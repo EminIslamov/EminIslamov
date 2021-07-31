@@ -13,8 +13,8 @@
   <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
   <img alt="DayJs" src="https://img.shields.io/badge/-DayJS-white?style=for-the-badge&l&logoColor=430098" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" />  
   <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d" />  
   <img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-blue?style=for-the-badge&logo=materialUI&logoColor=white" />
