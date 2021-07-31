@@ -1,23 +1,29 @@
 ### Технологии, используемые мной при разработке:
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javaScript)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux)
-![Redux Toolkit](https://img.shields.io/badge/-Redux--Toolkit-pink)
-![Redux Toolkit](https://img.shields.io/badge/-axios-white)
-![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-white?style=flat-square&logo=redux-thunk)
-![React-Router](https://img.shields.io/badge/React_Router-red?style=flat-square&logo=react-router)
-![Git](https://img.shields.io/badge/Git-g?style=flat-square&logo=git)
-![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap)
-![Prettier](https://img.shields.io/badge/Prettier-white?style=flat-square&logo=prettier)
-![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)
-![Immer](https://img.shields.io/badge/-Immer-green)
-![Node-JS](https://img.shields.io/badge/-Node--JS-blue)
-![Express](https://img.shields.io/badge/Express-yellow)
-![MongoDB](https://img.shields.io/badge/-MongoDB-g)
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-white?style=for-the-badge&logo=Redux&logoColor=430098" />
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-white?style=for-the-badge&logo=&logoColor=430098" />
+  <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-430098?style=for-the-badge&logo=Redux&logoColor=white" />
+  <img alt="Immer" src="https://img.shields.io/badge/-Immer-green?style=for-the-badge" />
+  <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
+  <img alt="DayJs" src="https://img.shields.io/badge/-DayJS-white?style=for-the-badge&l&logoColor=430098" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" />  
+  <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d" />  
+  <img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-blue?style=for-the-badge&logo=materialUI&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-rgb(242, 78, 30)?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ### Мои работы:
 
