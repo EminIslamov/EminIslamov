@@ -36,7 +36,7 @@
 ### Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/EminIslamovv)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/mohmadislamov/?utm_medium=copy_link)
-[![mail.ru](https://img.shields.io/badge/magomedemin.islamov@mail.ru-red?style=social&logo=mail.ru)](#)
+[![mail.ru](https://img.shields.io/badge/magomedemin.islamov@mail.ru-red?style=social&logo=mail.ru)](magomedemin.islamov@mail.ru)
 [![skype](https://img.shields.io/badge/live:magamedi98-red?style=social&logo=skype)](#)
 
 
